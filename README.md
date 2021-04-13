@@ -1,5 +1,7 @@
-<h1 align="center">Felipe Freitas</h1>
-<h3 align="center">🧑🏻‍💻 Front-end & Mobile developer!</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h1 align="left">Felipe Freitas</h1>
+<h3 align="left">🧑🏻‍💻 Front-end & Mobile developer!</h3>
 
 - 🌴 Brasil, Fortaleza - CE
 
