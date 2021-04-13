@@ -3,7 +3,7 @@
 <h1 align="left">Felipe Freitas</h1>
 <h3 align="left">🧑🏻‍💻 Front-end & Mobile developer!</h3>
 
-- 🌴 Brasil, Fortaleza - CE
+<h3> 🌴 Brasil, Fortaleza - CE </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
