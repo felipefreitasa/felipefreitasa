@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Felipe Freitas">
 
-<strong align="left">Olá. eu me chamo Felipe Freitas e sou desenvolvedor Front-end! </strong>
+<p align="left">Olá, eu me chamo Felipe Freitas e sou desenvolvedor Front-end! </p>
 
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Tecnologias: </h3>
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,7 +15,7 @@
 
 </br>
 
-<strong align="left">Minhas redes sociais:</strong>
+<P align="left">Minhas redes sociais:</P>
 <p align="left">
 <a href="https://www.linkedin.com/in/felipefreitasa/9" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  height="30" width="40" /></a>
 <a href="https://www.instagram.com/felipefreitas.dev/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"  height="30" width="30" /></a>
