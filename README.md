@@ -12,7 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
   <img align="center" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
-  <img  align="center" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/>
 </div>
 
 </br>
