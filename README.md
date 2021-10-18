@@ -5,7 +5,7 @@ Thank You for taking the time to view my GitHub Profile :)
 
 I hope you find all the information you need. If not, don't hesitate to send me a message on the channels below 👇
 
-<h2 align="center">Where You can find me:</h2>
+<h2 align="center">Where you can find me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/felipefreitasa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-freitas" height="30" width="40" /></a>
 <a href="https://www.instagram.com/felipefreitas.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="felipefreitas.dev" height="30" width="40" /></a>
