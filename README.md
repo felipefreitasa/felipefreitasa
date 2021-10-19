@@ -14,7 +14,7 @@ Espero que você encontre todas as informações que precisa. Caso contrário, n
 
 <h2 align="center">Um pouco sobre mim:</h2>
 
-- 👩‍💻 Atualmente trabalho como desenvolvedor front-end com o framework ReactJS
+- 👩‍💻 Atualmente trabalho como desenvolvedor front-end, utilizando o framework ReactJS
 - 💡 Sou apaixonado por desenvolver interfaces interativas e animadas, que proporcionam boas expeiências para os usuários
 
 <h2 align='center'>Tecnologias e Ferramentas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
