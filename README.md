@@ -3,7 +3,7 @@ Desenvolvedor front-end com foco em desenvolvimento web</h1>
 
 Obrigado por reservar um tempo para ver meu perfil no GitHub :)
 
-Espero que você encontre todas as informações de que precisa. Caso contrário, não hesite em me enviar uma mensagem nos canais abaixo 👇
+Espero que você encontre todas as informações que precisa. Caso contrário, não hesite em me enviar uma mensagem nos canais abaixo 👇
 
 <h2 align="center">Redes sociais:</h2>
 <p align="center">
