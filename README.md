@@ -1,5 +1,6 @@
+<img src="https://user-images.githubusercontent.com/77179768/138194418-72dd49e9-393a-4f00-94e7-2850a138cdf4.png" min-width="400px" max-width="400px" width="400px" align="right"/>
 
-# Olá, me chamo Felipe Freitas 👨‍💻
+# Olá, me chamo Felipe Freitas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 Obrigado por reservar um tempo para ver meu perfil no GitHub :)
 
