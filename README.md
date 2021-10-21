@@ -1,32 +1,36 @@
-<h1 align='center'> Olá, me chamo Felipe Freitas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Desenvolvedor front-end com foco em desenvolvimento web</h1>
+<img src="https://user-images.githubusercontent.com/77179768/138191253-e169dc38-6bac-4502-920f-b54b8685480c.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe Freitas">
+
+# Olá, me chamo Felipe Freitas 👨‍💻
 
 Obrigado por reservar um tempo para ver meu perfil no GitHub :)
 
-Espero que você encontre todas as informações que precisa. Caso contrário, não hesite em me enviar uma mensagem nos canais abaixo 👇
+Sou desenvolvedor Front-end e discente do curso de Ciência da Computação 
 
-<h2 align="center">Redes sociais:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipefreitasa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-freitas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/felipefreitas.dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="felipefreitas.dev" height="30" width="40" /></a>
+## Tecnologias e Ferramentas
 
+<p align = 'left'>
+<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+ <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
+<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+ <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'>
 </p>
 
-<h2 align="center">Um pouco sobre mim:</h2>
+## Contatos
 
-- 👩‍💻 Atualmente trabalho como desenvolvedor front-end, utilizando o framework ReactJS
-- 💡 Sou apaixonado por desenvolver interfaces interativas e animadas, que proporcionam boas experiências para os usuários
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipefreitasa/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-<h2 align='center'>Tecnologias e Ferramentas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
-<p align = 'center'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
- <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
- <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'>
-</p>
+  <a href="https://web.whatsapp.com/send?phone=5598982393862" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/felipefreitasa_/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
 
 
 
