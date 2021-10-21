@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/77179768/138191253-e169dc38-6bac-4502-920f-b54b8685480c.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe Freitas">
 
 # Olá, me chamo Felipe Freitas 👨‍💻
 
