@@ -4,7 +4,9 @@
 
 Obrigado por reservar um tempo para ver meu perfil no GitHub :)
 
-Sou desenvolvedor Front-end e discente do curso de Ciência da Computação! 
+## Sobre mim
+- 👨🏻‍💻 Sou desenvolvedor Front-end e discente do curso de Ciência da Computação! 
+- 💡 Apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 
 ## Tecnologias e Ferramentas
 
