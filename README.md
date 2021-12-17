@@ -1,14 +1,23 @@
 <img src="https://user-images.githubusercontent.com/77179768/138194418-72dd49e9-393a-4f00-94e7-2850a138cdf4.png" min-width="350px" max-width="350px" width="350px" align="right"/>
 
-# Olá, me chamo Felipe Freitas
+# Hey 👋
 
-Obrigado por reservar um tempo para ver meu perfil no GitHub :)
+<p align='center'>
 
-## Sobre mim
-- 👨🏻‍💻 Sou desenvolvedor Front-end e discente do curso de Ciência da Computação! 
-- 💡 Apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=felipefreitasa.felipefreitasa)
 
-## Tecnologias e Ferramentas
+</p>
+
+
+Thank you for taking the time to view my GitHub Profile :)
+
+## About me
+
+- 🙋🏻‍♂️ My name is Felipe Freitas
+- 👨🏻‍💻 I'm a Software Engineer, that has been working as a Front-end Developer since 2020
+- 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+## Technologies
 
 <p align = 'left'>
 <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
