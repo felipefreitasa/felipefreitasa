@@ -2,13 +2,6 @@
 
 # Hey 👋
 
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=felipefreitasa.felipefreitasa)
-
-</p>
-
-
 Thank you for taking the time to view my GitHub Profile :)
 
 ## About me
