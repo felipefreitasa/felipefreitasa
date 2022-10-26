@@ -7,7 +7,7 @@ Thank you for taking the time to view my GitHub Profile :)
 ## About me
 
 - 🙋🏻‍♂️ My name is Felipe Freitas
-- 👨🏻‍💻 I'm a Software Engineer, that has been working as a Front-end Developer since 2020
+- 👨🏻‍💻 I'm a Software Engineer, that has been working as a Mobile Developer since 2020
 - 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ## Technologies
