@@ -17,7 +17,8 @@ Thank you for taking the time to view my GitHub Profile :)
  <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
  <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
  <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
-<img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+ <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
+ <img width ='30px' align='center' src ='https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png'>
 </p>
 
 
