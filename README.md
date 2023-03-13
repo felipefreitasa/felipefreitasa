@@ -22,6 +22,8 @@ Thank you for taking the time to view my GitHub Profile :)
 </p>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
