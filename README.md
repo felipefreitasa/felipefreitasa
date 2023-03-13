@@ -7,7 +7,7 @@ Thank you for taking the time to view my GitHub Profile :)
 ## About me
 
 - 🙋🏻‍♂️ My name is Felipe Freitas
-- 👨🏻‍💻 I'm a Software Engineer, that has been working as a Mobile Developer since 2020
+- 👨🏻‍💻 I'm a Mobile Developer, that has been working with React Native and Typescript since 2020
 - 💻 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ## Technologies
