@@ -2,8 +2,8 @@
 
 - 🏢 Mobile developer at [Somapay](https://somapay.com.br/)
 - 📱 React Native and Expo enthusiast
-- ✨ I'm passionate about animations and micro-interactions, using libraries like: Skia, Reanimated and Gesture Handler.
-- 👨🏻‍💻 Technologies I use on a daily basis: React Native, Expo, Typescript, Redux, Context API, Skia, Gesture Handler, React Hook Form, Yup, Native Base, Styled Components, Firebase, One Signal e React Navigation.
+- ✨ I'm passionate about animations and micro-interactions, using libraries like: Skia, Reanimated and Gesture Handler
+- 👨🏻‍💻 Technologies I use on a daily basis: React Native, Expo, Typescript, Redux, Context API, Skia, Gesture Handler, React Hook Form, Yup, Native Base, Styled Components, Firebase, One Signal and React Navigation
  
 
 ### Connect with me
