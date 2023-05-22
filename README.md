@@ -1,28 +1,11 @@
+ ## Hi, I’m Felipe!
 
-
-# Hi, I'm Felipe 👋
-
-- 👨🏻‍💻 I'm a Mobile Developer, that has been working with React Native and Typescript since 2020.
-- 💻 Passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-## Technologies
-
-<p align = 'left'>
- <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
- <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
- <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
- <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'>
- <img width ='30px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
- <img width ='30px' align='center' src ='https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png'>
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipefreitasa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-  
+- 🏢 Mobile developer at [Somapay](https://somapay.com.br/)
+- 📱 React Native and Expo enthusiast
+- ✨ I'm passionate about animations and micro-interactions, using libraries like: Skia, Reanimated and Gesture Handler.
+- 👨🏻‍💻 Technologies I use on a daily basis: React Native, Expo, Typescript, Redux, Context API, Skia, Gesture Handler, React Hook Form, Yup, Native Base, Styled Components, Firebase, One Signal e React Navigation.
  
 
- 
+### Connect with me
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipefreitasa)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/felipedosapps)
