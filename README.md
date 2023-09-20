@@ -1,6 +1,6 @@
  # Felipe Freitas
 
-🏢 Software Engineer at [Somapay](https://somapay.com.br/)
+🏢 Mobile Developer at [BRQ](https://www.brq.com)
 
 👨🏻‍💻 Enthusiast of front-ent and mobile development technologies like React Native, React, Typescript and Javascript.
 
