@@ -1,6 +1,6 @@
  # Felipe Freitas
 
-🏢 Mobile Developer at [BRQ](https://www.brq.com)
+🏢 Mobile Developer at [BRQ Digital Solutions](https://www.brq.com)
 
 👨🏻‍💻 Enthusiast of front-ent and mobile development technologies like React Native, React, Typescript and Javascript.
 
