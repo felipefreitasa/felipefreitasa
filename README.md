@@ -1,7 +1,5 @@
  # Felipe Freitas
 
-🏢 Mobile Developer at [BRQ Digital Solutions](https://www.brq.com)
-
 👨🏻‍💻 Software Engineer, enthusiast of React Native, Typescript and Expo!
 
 ### Contact me
