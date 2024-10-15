@@ -1,6 +1,7 @@
  # Felipe Freitas
-
-👨🏻‍💻 Software Engineer, enthusiast of React Native, Typescript and Expo!
+ 
+✨ Hi, welcome to my GitHub...
+👨🏻‍💻 I am a Software Engineer, enthusiast of React Native, Typescript and Expo!
 
 ### Contact me
 
