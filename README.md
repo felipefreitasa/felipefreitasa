@@ -2,9 +2,7 @@
 
 🏢 Mobile Developer at [BRQ Digital Solutions](https://www.brq.com)
 
-👨🏻‍💻 Enthusiast of front-ent and mobile development technologies like React Native, React, Typescript and Javascript.
-
-✨ Skills in animations and micro-interactions are a differentiator in my development approach.
+👨🏻‍💻 Software Engineer, enthusiast of React Native, Typescript and Expo!
 
 ### Contact me
 
