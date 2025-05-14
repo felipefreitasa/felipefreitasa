@@ -2,7 +2,7 @@
  
 ✨ Hi, welcome to my GitHub...
 
-👨🏻‍💻 I am a Software Engineer, enthusiast of React Native, React and Node!
+👨🏻‍💻 I am a mobile developer, enthusiast of React Native, Expo and TypeScript!
 
 ### Contact me
 
